@@ -1,0 +1,38 @@
+.checkbox {
+  float: left;
+  margin-top: 12px;
+}
+
+.textField {
+  float: right;
+  width: 85%;
+  margin-right: 20px;
+}
+
+.toDoContainer {
+  height: 60px;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Montserrat', 'Arial', 'sans-serif';
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+.date {
+  text-align: center;
+  font-style: italic;
+  color: #c3c3c3;
+  font-family: 'Roboto', 'Arial', 'sans-serif';
+}
+
+.container {
+  margin: 20px auto;
+  width: 600px;
+  background: #fff;
+}
+
+body, html {
+  background: #efefef;
+}
